@@ -2,4 +2,4 @@
 
 * To run use following command
 
-        json-server db.json --static ./public/index.html
+        json-server db.json ./public/index.html
