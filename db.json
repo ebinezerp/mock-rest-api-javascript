@@ -1,0 +1,42 @@
+{
+  "course": [
+    {
+      "id": "PICV3",
+      "description": "C Programming Language",
+      "fee": "5000"
+    },
+    {
+      "id": "PUCV3",
+      "description": "C++ Programming Language",
+      "fee": 5000
+    },
+    {
+      "id": "PIJV7",
+      "description": "Java Programming Language",
+      "fee": 9000
+    },
+    {
+      "id": "PGP",
+      "description": "Post Graduation Program",
+      "fee": "60000"
+    }
+  ],
+  "trainer": [
+    {
+      "id": 1,
+      "name": "Jhon",
+      "courseId": [
+        "PICV3",
+        "PUCV3"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Samson",
+      "courseId": [
+        "PUCV3",
+        "PIJV7"
+      ]
+    }
+  ]
+}
